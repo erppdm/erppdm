@@ -15,3 +15,5 @@ With my professional experience as an administrator, programmer, engineer, produ
 | CAD | SolidWorks, Unigraphics NX, ThinkDesign, AutoCAD |
 | CAM | WorkNC, MasterCAM, HyperMill |
 | CNC control | DIN, Heidenhain TNC  |
+
+Further information [about me](https://github.com/erppdm/About-Me).
