@@ -16,4 +16,4 @@ With my professional experience as an administrator, programmer, engineer, produ
 | CAM | WorkNC, MasterCAM, HyperMill |
 | CNC control | DIN, Heidenhain TNC  |
 
-Further information [about me](https://github.com/erppdm/About-Me).
+Further information [about me, my achievements and projects](https://github.com/erppdm/About-Me).
