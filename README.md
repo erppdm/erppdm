@@ -1,6 +1,6 @@
 ### The right information, to the right person, at the right time, for the right decisions
 
-Often, software systems that are incompatible with each other are used, leading to significant inefficiencies. This creates great potential for optimisation to permanently reduce the associated costs. For this reason, I have specialise in the administration and customisation of ERP, CAD, and PDM systems, as well as in developing interfaces for data exchange and tools to increase efficiency.
+All too often, uncoordinated software systems are used, leading to significant cost and efficiency losses. To address this sustainably, I have specialised in the administration and customisation of SolidWorks CAD and PDM solutions in conjunction with the integration of ERP systems. I develop interfaces for automated data exchange, optimise existing workflows and implement tools for increasing efficiency, improving processes and ensuring quality, where appropriate also using AI technologies.
 
 With my professional experience as an administrator, programmer, engineer, production planner, and mechanic, I have a deep understanding of cross-departmental workflows and the resulting needs for process optimisation. Leveraging this knowledge and my programming expertise, I am able to develop tailored software tools for process improvement in record time.
 
