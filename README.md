@@ -8,10 +8,11 @@ With my professional experience as an administrator, programmer, engineer, produ
 
 | Expertise | Details |
 |:---|:---|
+| Process Automation | OpenAI, n8n |
 | Virtualisation | VMware, Microsoft Azure |
 | Administration | Windows-Server, MS-SQL Server, SolidWorks CAD/PDM, SAP Business One/beas |
-| Programming languages | C#, T-SQL, VB, VBA, VBS, AutoHotkey|
-| API programming | SolidWorks CAD/PDM, SAP Business One, MS-Excel, MS-Project, ABAS |
+| Programming Languages | C#, T-SQL, VB, VBA, VBS, AutoHotkey|
+| API Programming | SolidWorks CAD/PDM, SAP Business One, MS-Excel, MS-Project, ABAS |
 | CAD | SolidWorks, Unigraphics NX, ThinkDesign, AutoCAD |
 | CAM | WorkNC, MasterCAM, HyperMill |
 | CNC control | DIN, Heidenhain TNC  |
