@@ -9,7 +9,7 @@ With my professional experience as an administrator, programmer, engineer, produ
 | Expertise | Details |
 |:---|:---|
 | Process Automation | OpenAI, n8n |
-| Virtualisation | VMware, Microsoft Azure |
+| Virtualisation | Docker, VMware, Microsoft Azure |
 | Administration | Windows-Server, MS-SQL Server, SolidWorks CAD/PDM, SAP Business One/beas |
 | Programming Languages | C#, T-SQL, VB, VBA, VBS, AutoHotkey|
 | API Programming | SolidWorks CAD/PDM, SAP Business One, MS-Excel, MS-Project, ABAS |
