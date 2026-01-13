@@ -8,7 +8,7 @@ With my professional experience as an administrator, programmer, engineer, produ
 
 | Expertise | Details |
 |:---|:---|
-| Process Automation | OpenAI, n8n |
+| Process Automation | Gemini, ChatGPT, Grok, n8n |
 | Virtualisation | Docker, VMware, Microsoft Azure |
 | Administration | Windows-Server, MS-SQL Server, SolidWorks CAD/PDM, SAP Business One/beas |
 | Programming Languages | C#, T-SQL, VB, VBA, VBS, AutoHotkey|
